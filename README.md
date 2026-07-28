@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Brayan Estiven Agudelo 👋</h1>
 
 <p align="center">
-  <strong>Junior Backend Developer | Python · FastAPI · REST APIs · PostgreSQL · Automation</strong>
+  <strong>Backend Developer | Python · FastAPI · REST APIs · PostgreSQL · Automation</strong>
 </p>
 
 <p align="center">
-  Medellín, Colombia · Software Development Technology Student at ITM
+  Medellín, Colombia · Software Development Technology at ITM
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a fifth-semester Software Development Technology student at Instituto Tecnológico Metropolitano — ITM, focused on backend development, process automation, and building web applications.
+I am a Software Development Technology at Instituto Tecnológico Metropolitano — ITM, focused on backend development, process automation, and building web applications.
 
 I mainly work with Python, FastAPI, REST APIs, SQLAlchemy, and PostgreSQL. I also have hands-on experience with JWT authentication, Docker, Selenium, Pandas, OpenPyXL, Git, and external service integrations.
 
